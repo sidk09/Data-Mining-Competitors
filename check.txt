@@ -1,0 +1,7 @@
+6	['Fast_Food']	['23.7602683']	['-99.1658646']	['Pollo_Frito_Buenos_Aires']	['cash']	132609	['low']	1.5	['not permitted']
+
+43	['American']	['22.1544736']	['-100.9858091']	['VIPS']	['cash']	132951	['low']	2.33	['not permitted']
+
+8	['Italian']	['23.7375834']	['-99.1351318']	['la perica hamburguesa']	['cash', 'American_Express']	132626	['medium']	2.71	['none']
+
+

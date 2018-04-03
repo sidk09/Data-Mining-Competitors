@@ -1,0 +1,616 @@
+placeid,payment
+132002,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132012,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132019,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132023,"['American_Express', 'Japan_Credit_Bureau', 'bank_debit_cards', 'Diners_Club']"
+132024,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132026,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132030,"['Visa', 'American_Express', 'gift_certificates', 'bank_debit_cards', 'Diners_Club']"
+132031,"['MasterCard-Eurocard', 'checks', 'Discover', 'Visa', 'gift_certificates', 'bank_debit_cards']"
+132103,['American_Express']
+132106,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132107,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132109,"['MasterCard-Eurocard', 'Visa', 'American_Express']"
+132111,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132115,['American_Express']
+132116,['American_Express']
+132130,['Visa']
+132155,['bank_debit_cards']
+132159,"['Visa', 'American_Express', 'Japan_Credit_Bureau', 'bank_debit_cards', 'Diners_Club']"
+132160,"['Visa', 'bank_debit_cards']"
+132161,"['gift_certificates', 'bank_debit_cards']"
+132163,['bank_debit_cards']
+132164,"['Visa', 'American_Express', 'bank_debit_cards']"
+132165,"['Visa', 'American_Express', 'bank_debit_cards']"
+132166,['bank_debit_cards']
+132177,"['MasterCard-Eurocard', 'Visa']"
+132182,"['MasterCard-Eurocard', 'Visa', 'American_Express']"
+132184,"['MasterCard-Eurocard', 'Visa']"
+132187,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Japan_Credit_Bureau', 'bank_debit_cards', 'Carte_Blanche', 'Diners_Club']"
+132201,"['MasterCard-Eurocard', 'Visa']"
+132204,"['Visa', 'American_Express', 'bank_debit_cards']"
+132206,"['Visa', 'American_Express', 'bank_debit_cards']"
+132207,"['Visa', 'bank_debit_cards']"
+132211,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132212,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132213,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132215,"['MasterCard-Eurocard', 'Visa']"
+132220,['Visa']
+132221,['American_Express']
+132228,['MasterCard-Eurocard']
+132229,['American_Express']
+132230,"['MasterCard-Eurocard', 'Visa', 'American_Express']"
+132231,"['MasterCard-Eurocard', 'Discover', 'Visa', 'American_Express', 'gift_certificates', 'Carte_Blanche', 'Diners_Club']"
+132232,"['MasterCard-Eurocard', 'Visa']"
+132233,"['MasterCard-Eurocard', 'Visa']"
+132237,"['MasterCard-Eurocard', 'Discover', 'Visa']"
+132243,"['MasterCard-Eurocard', 'Discover', 'Visa', 'American_Express', 'Carte_Blanche', 'Diners_Club']"
+132244,"['MasterCard-Eurocard', 'checks', 'Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132246,['MasterCard-Eurocard']
+132275,['American_Express']
+132289,"['MasterCard-Eurocard', 'Discover', 'Visa', 'American_Express', 'gift_certificates', 'bank_debit_cards', 'Carte_Blanche', 'Diners_Club']"
+132293,"['MasterCard-Eurocard', 'Visa', 'American_Express']"
+132296,"['Visa', 'American_Express', 'bank_debit_cards']"
+132297,"['Visa', 'American_Express']"
+132302,"['MasterCard-Eurocard', 'Discover', 'Visa', 'American_Express', 'Carte_Blanche', 'Diners_Club']"
+132318,"['Visa', 'American_Express']"
+132319,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132333,"['MasterCard-Eurocard', 'Discover', 'Visa']"
+132336,['Discover']
+132341,['American_Express']
+132342,"['MasterCard-Eurocard', 'Visa']"
+132343,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132344,['Visa']
+132346,['Visa']
+132347,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132348,"['MasterCard-Eurocard', 'Visa']"
+132353,"['Visa', 'American_Express']"
+132355,"['MasterCard-Eurocard', 'Visa', 'bank_debit_cards']"
+132361,"['Visa', 'American_Express', 'Diners_Club']"
+132364,"['Visa', 'Diners_Club']"
+132367,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132387,"['MasterCard-Eurocard', 'Visa']"
+132392,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132396,"['Visa', 'American_Express', 'gift_certificates', 'Japan_Credit_Bureau', 'bank_debit_cards', 'Diners_Club']"
+132399,"['Visa', 'American_Express', 'bank_debit_cards']"
+132407,['bank_debit_cards']
+132409,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132413,"['MasterCard-Eurocard', 'Discover', 'Visa', 'American_Express', 'Diners_Club']"
+132414,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132417,['Discover']
+132419,['MasterCard-Eurocard']
+132432,"['MasterCard-Eurocard', 'Visa']"
+132436,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132437,"['Visa', 'bank_debit_cards']"
+132438,"['Visa', 'bank_debit_cards']"
+132439,"['Visa', 'bank_debit_cards']"
+132442,"['Visa', 'American_Express', 'bank_debit_cards']"
+132443,"['Visa', 'American_Express', 'bank_debit_cards']"
+132444,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132445,['Diners_Club']
+132446,"['Visa', 'American_Express', 'bank_debit_cards']"
+132449,['bank_debit_cards']
+132458,['American_Express']
+132482,"['MasterCard-Eurocard', 'Visa', 'American_Express']"
+132483,"['MasterCard-Eurocard', 'Visa']"
+132488,['American_Express']
+132493,"['MasterCard-Eurocard', 'Visa', 'American_Express']"
+132509,"['MasterCard-Eurocard', 'Visa', 'American_Express', 'Diners_Club']"
+132518,['American_Express']
+132521,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132527,"['Visa', 'American_Express', 'gift_certificates', 'bank_debit_cards', 'Diners_Club']"
+132530,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132531,"['Visa', 'bank_debit_cards']"
+132533,"['MasterCard-Eurocard', 'American_Express']"
+132535,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132537,['Visa']
+132544,"['Visa', 'Japan_Credit_Bureau', 'American_Express', 'Diners_Club']"
+132545,"['Visa', 'American_Express', 'bank_debit_cards', 'Diners_Club']"
+132560,['cash']
+132572,['?']
+132573,"['cash', 'VISA']"
+132574,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132575,"['cash', 'VISA', 'American_Express', 'bank_debit_cards']"
+132576,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132577,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132578,['cash']
+132580,['cash']
+132581,['cash']
+132582,"['cash', 'VISA']"
+132583,['?']
+132584,['cash']
+132585,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132586,['cash']
+132587,['cash']
+132588,['cash']
+132589,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132590,['cash']
+132591,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132592,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards', 'checks', 'Diners_Club']"
+132593,['cash']
+132594,['cash']
+132595,['cash']
+132596,['cash']
+132597,['cash']
+132598,"['cash', 'bank_debit_cards']"
+132599,['cash']
+132600,['cash']
+132601,['cash']
+132602,['cash']
+132603,['cash']
+132604,['cash']
+132605,['cash']
+132606,"['cash', 'American_Express']"
+132607,['cash']
+132608,['cash']
+132609,['cash']
+132610,['cash']
+132611,['cash']
+132612,"['cash', 'VISA']"
+132613,['cash']
+132614,['cash']
+132615,['cash']
+132616,['cash']
+132617,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132618,['cash']
+132619,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards', 'checks']"
+132620,['cash']
+132621,['cash']
+132622,['cash']
+132623,"['VISA', 'bank_debit_cards']"
+132624,"['cash', 'VISA', 'bank_debit_cards']"
+132625,"['cash', 'VISA', 'bank_debit_cards', 'checks']"
+132626,"['cash', 'American_Express']"
+132628,['cash']
+132629,"['cash', 'VISA', 'bank_debit_cards']"
+132631,['cash']
+132635,['MasterCard-Eurocard']
+132636,['cash']
+132638,['MasterCard-Eurocard']
+132640,['cash']
+132642,['cash']
+132645,['cash']
+132648,['cash']
+132650,['cash']
+132653,['cash']
+132655,['cash']
+132658,['cash']
+132667,['cash']
+132671,['cash']
+132674,['cash']
+132675,['cash']
+132676,['cash']
+132677,['cash']
+132678,['cash']
+132679,['cash']
+132680,['cash']
+132681,['cash']
+132682,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132683,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132684,"['cash', 'VISA']"
+132685,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'checks']"
+132686,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132687,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132688,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132689,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132690,['cash']
+132691,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132692,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132693,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132694,['cash']
+132695,['cash']
+132696,['cash']
+132697,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132698,['cash']
+132699,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132700,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132701,['cash']
+132702,['cash']
+132703,['cash']
+132704,['cash']
+132705,['cash']
+132706,"['cash', 'VISA']"
+132707,['cash']
+132708,['cash']
+132709,['cash']
+132710,['cash']
+132711,['cash']
+132712,['cash']
+132713,['cash']
+132714,['cash']
+132715,['cash']
+132716,['cash']
+132717,['cash']
+132718,['cash']
+132719,['cash']
+132720,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132721,['cash']
+132722,['cash']
+132723,"['cash', 'VISA']"
+132724,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132725,['cash']
+132726,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132727,['cash']
+132728,['cash']
+132730,['cash']
+132731,['cash']
+132732,['?']
+132733,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132734,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132735,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132736,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132737,['cash']
+132738,['cash']
+132739,['cash']
+132740,['cash']
+132741,['cash']
+132742,['cash']
+132743,['cash']
+132744,['cash']
+132745,['cash']
+132746,['cash']
+132747,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132748,['cash']
+132749,['cash']
+132750,"['cash', 'bank_debit_cards']"
+132751,"['cash', 'bank_debit_cards']"
+132752,['cash']
+132753,['cash']
+132754,['cash']
+132755,"['cash', 'VISA', 'American_Express', 'bank_debit_cards']"
+132756,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132757,['cash']
+132758,['cash']
+132759,['cash']
+132760,"['cash', 'bank_debit_cards']"
+132761,"['cash', 'VISA', 'bank_debit_cards']"
+132762,['cash']
+132763,['cash']
+132764,['cash']
+132765,['cash']
+132766,['?']
+132767,"['cash', 'VISA', 'American_Express']"
+132768,"['cash', 'bank_debit_cards']"
+132769,['cash']
+132770,['cash']
+132771,"['cash', 'bank_debit_cards']"
+132772,['cash']
+132773,['cash']
+132774,"['cash', 'VISA', 'bank_debit_cards']"
+132775,['cash']
+132776,"['cash', 'VISA', 'bank_debit_cards']"
+132777,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132778,['cash']
+132779,"['cash', 'VISA']"
+132780,['cash']
+132781,"['cash', 'bank_debit_cards']"
+132782,"['cash', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132783,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132784,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132785,"['cash', 'VISA', 'bank_debit_cards']"
+132786,"['cash', 'VISA', 'American_Express', 'bank_debit_cards']"
+132787,"['cash', 'VISA', 'American_Express', 'bank_debit_cards']"
+132788,"['cash', 'VISA', 'American_Express']"
+132789,"['cash', 'VISA', 'American_Express', 'bank_debit_cards']"
+132790,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132791,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132792,"['cash', 'VISA', 'American_Express', 'bank_debit_cards']"
+132793,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132794,['cash']
+132795,"['cash', 'MasterCard-Eurocard', 'American_Express']"
+132796,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132797,"['cash', 'bank_debit_cards']"
+132798,['cash']
+132799,"['cash', 'American_Express', 'bank_debit_cards']"
+132801,"['cash', 'bank_debit_cards']"
+132802,"['cash', 'American_Express', 'bank_debit_cards']"
+132803,['cash']
+132804,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132805,['cash']
+132806,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132807,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132808,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132809,['cash']
+132810,['cash']
+132811,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132815,['cash']
+132817,['cash']
+132819,['cash']
+132820,"['cash', 'bank_debit_cards']"
+132821,['cash']
+132824,"['cash', 'bank_debit_cards']"
+132825,['cash']
+132826,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132827,['cash']
+132828,['cash']
+132829,['cash']
+132834,['cash']
+132835,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132836,['cash']
+132837,['cash']
+132840,['cash']
+132841,['cash']
+132842,['cash']
+132843,['cash']
+132845,['cash']
+132846,['cash']
+132847,['cash']
+132848,['cash']
+132849,['cash']
+132850,['cash']
+132851,['cash']
+132852,['cash']
+132853,['cash']
+132854,"['cash', 'VISA', 'bank_debit_cards']"
+132855,['cash']
+132856,['cash']
+132857,"['cash', 'VISA', 'bank_debit_cards']"
+132858,['cash']
+132859,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132860,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132861,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132862,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132863,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132864,['cash']
+132865,['cash']
+132866,['cash']
+132867,['cash']
+132868,['cash']
+132869,['cash']
+132870,['cash']
+132871,['cash']
+132872,"['cash', 'bank_debit_cards']"
+132873,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132875,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132880,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards', 'Carte_Blanche']"
+132885,['cash']
+132886,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+132887,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132888,"['cash', 'VISA', 'MasterCard-Eurocard']"
+132889,['cash']
+132890,['cash']
+132891,['cash']
+132892,"['cash', 'VISA']"
+132893,['cash']
+132894,['cash']
+132895,['cash']
+132896,['cash']
+132897,['cash']
+132899,['cash']
+132900,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132901,['cash']
+132902,['cash']
+132903,['cash']
+132904,['cash']
+132907,['cash']
+132908,['cash']
+132909,['cash']
+132910,['cash']
+132911,['cash']
+132912,['cash']
+132913,['cash']
+132914,['cash']
+132915,['cash']
+132916,['cash']
+132917,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132918,['cash']
+132919,['cash']
+132920,['cash']
+132921,['cash']
+132922,['?']
+132923,['cash']
+132924,['cash']
+132925,['?']
+132926,['cash']
+132927,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards', 'checks']"
+132928,['cash']
+132929,['cash']
+132930,['cash']
+132931,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards', 'checks']"
+132932,['cash']
+132933,['cash']
+132934,['cash']
+132935,['cash']
+132936,['cash']
+132937,['cash']
+132938,['cash']
+132939,['cash']
+132940,['cash']
+132941,['cash']
+132942,['cash']
+132944,['cash']
+132945,['cash']
+132946,['cash']
+132947,"['cash', 'VISA']"
+132948,['cash']
+132950,['cash']
+132951,['cash']
+132953,"['cash', 'VISA', 'American_Express', 'bank_debit_cards']"
+132954,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132955,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards', 'Carte_Blanche']"
+132956,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132957,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+132958,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+132959,['cash']
+132960,['cash']
+132961,['cash']
+132962,['cash']
+132963,['cash']
+132964,['cash']
+132965,['cash']
+132966,['cash']
+132967,['cash']
+132968,['cash']
+132969,['cash']
+132970,['cash']
+132971,['cash']
+132972,['cash']
+132973,['cash']
+132974,['cash']
+132975,['cash']
+132976,['cash']
+132977,['cash']
+132978,['cash']
+132979,['cash']
+132980,['cash']
+132981,['cash']
+132982,['cash']
+132983,['cash']
+132984,['cash']
+132985,['cash']
+132986,['cash']
+132993,['cash']
+132994,['cash']
+132995,['cash']
+132996,['cash']
+133007,['cash']
+133008,['cash']
+133009,['cash']
+133014,['cash']
+133020,['cash']
+133026,"['cash', 'bank_debit_cards']"
+133027,"['cash', 'MasterCard-Eurocard', 'American_Express']"
+133028,['cash']
+133029,['cash']
+133030,"['cash', 'VISA', 'bank_debit_cards']"
+133031,['cash']
+133032,['cash']
+133033,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+133034,['cash']
+133035,['cash']
+133036,['cash']
+133037,['cash']
+133038,['cash']
+133043,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+133047,['cash']
+133048,['cash']
+133049,['cash']
+134970,"['cash', 'VISA', 'MasterCard-Eurocard', 'checks']"
+134971,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134972,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134973,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134974,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134975,"['cash', 'VISA', 'MasterCard-Eurocard', 'Discover']"
+134976,"['VISA', 'MasterCard-Eurocard', 'American_Express', 'checks']"
+134977,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134978,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134980,['cash']
+134981,['cash']
+134982,['cash']
+134983,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134984,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134985,"['VISA', 'MasterCard-Eurocard', 'American_Express']"
+134987,['cash']
+134988,"['VISA', 'MasterCard-Eurocard', 'American_Express']"
+134989,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+134990,['cash']
+134991,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+134992,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134993,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+134994,"['cash', 'VISA', 'MasterCard-Eurocard']"
+134995,['cash']
+134996,['cash']
+134998,['cash']
+135000,['cash']
+135001,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135002,"['VISA', 'MasterCard-Eurocard', 'American_Express']"
+135003,['cash']
+135004,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135005,['cash']
+135006,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135007,"['VISA', 'MasterCard-Eurocard', 'American_Express']"
+135008,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135009,['cash']
+135010,['cash']
+135011,['cash']
+135012,['cash']
+135013,['cash']
+135014,['cash']
+135015,['cash']
+135016,['cash']
+135017,['cash']
+135018,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+135021,['cash']
+135022,['cash']
+135023,['cash']
+135024,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135025,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135027,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135028,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135029,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135030,['cash']
+135031,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135032,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135033,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135034,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135035,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135036,['cash']
+135037,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135038,['cash']
+135039,['cash']
+135040,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135041,['cash']
+135042,['cash']
+135043,['cash']
+135044,['cash']
+135045,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135046,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135047,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135048,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135049,['cash']
+135050,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135051,['cash']
+135052,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135053,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135054,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135055,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135056,['cash']
+135057,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135058,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135059,['cash']
+135060,['?']
+135061,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135062,['cash']
+135063,['cash']
+135064,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135065,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135066,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135067,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135068,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135069,['cash']
+135070,['cash']
+135071,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135072,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135073,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135074,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135075,['cash']
+135076,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135077,['cash']
+135078,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135079,"['cash', 'American_Express']"
+135080,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express']"
+135081,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135082,['cash']
+135084,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135085,['?']
+135086,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135088,['cash']
+135089,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+135090,['cash']
+135091,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135092,['cash']
+135093,"['cash', 'bank_debit_cards']"
+135094,['cash']
+135097,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+135098,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+135099,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135100,['cash']
+135101,['cash']
+135102,"['cash', 'VISA', 'MasterCard-Eurocard', 'bank_debit_cards']"
+135103,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135104,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135105,['cash']
+135106,"['cash', 'VISA', 'MasterCard-Eurocard']"
+135107,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
+135109,['cash']
+135110,"['cash', 'VISA', 'MasterCard-Eurocard', 'American_Express', 'bank_debit_cards']"
